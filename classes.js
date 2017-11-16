@@ -34,3 +34,7 @@ function three () {
 }
 
 // CREATE FUNCTION makeVisible HERE
+function makeVisible () {
+  var makeVisible = document.getElementByID('')
+  makeVisible.classList.add('red')
+}
