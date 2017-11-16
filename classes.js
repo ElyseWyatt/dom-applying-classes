@@ -30,7 +30,7 @@ function two () {
 // CREATE FUNCTION three HERE
 function three () {
   var three = document.getElementByID('three')
-  three.classList.add('purple')
+  three.classList.add('red')
 }
 
 // CREATE FUNCTION makeVisible HERE
