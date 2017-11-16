@@ -29,7 +29,7 @@ function two () {
 
 // CREATE FUNCTION three HERE
 function three () {
-  var three = document.getElementByID('three')
+  var three = document.getElementById('three')
   three.classList.add('red')
 }
 
